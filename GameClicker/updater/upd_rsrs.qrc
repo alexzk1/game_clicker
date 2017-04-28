@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ICONS">
+        <file>icons/update.png</file>
+        <file>icons/install.png</file>
+    </qresource>
+</RCC>

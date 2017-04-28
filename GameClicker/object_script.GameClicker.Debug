@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\qluascript.o
+./debug\qfixgg.o
+./debug\qwindowtargeter.o
+./debug\showhk.o
+./debug\qgcbroadcaster.o
+./debug\disasm.o
+./debug\moc_mainwindow.o
+./debug\moc_qluascript.o
+./debug\moc_qwindowtargeter.o
+./debug\moc_showhk.o
+./debug\moc_qgcbroadcaster.o
+./debug\qrc_GCRes.o
+);

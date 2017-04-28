@@ -1,0 +1,3 @@
+[Common]
+Link=http://igra-em.ru/downloads/gcsetup2.0.0.1.exe
+  

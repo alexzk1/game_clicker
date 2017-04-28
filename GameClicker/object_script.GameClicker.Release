@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\qluascript.o
+./release\qfixgg.o
+./release\qwindowtargeter.o
+./release\showhk.o
+./release\qgcbroadcaster.o
+./release\disasm.o
+./release\moc_mainwindow.o
+./release\moc_qluascript.o
+./release\moc_qwindowtargeter.o
+./release\moc_showhk.o
+./release\moc_qgcbroadcaster.o
+./release\qrc_GCRes.o
+);

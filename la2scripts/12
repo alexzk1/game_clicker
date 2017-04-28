@@ -1,0 +1,9 @@
+.header_l {
+background:url(/images/drako.png) no-repeat left 0;
+background:url(/images/header_bg.png) no-repeat left -274px;
+ height:272px;
+
+}
+
+
+background:url(/images/header_bg.png) no-repeat left -274px;

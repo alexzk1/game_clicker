@@ -1,0 +1,16 @@
+[19 èþë 2012, 01:07:56]
+
+[FileNames]
+Exe=tmp.exe
+SaveAs=gcupd.exe
+Log=win_res.log
+
+[Commands]
+-addoverwrite "..\updater\icons\update.ico", ICONGROUP,MAINICON,0
+  Added: ICONGROUP,MAINICON,0
+-addoverwrite ".\vers.res", VERSIONINFO,1,
+  Added: VERSIONINFO,1,1033
+-addoverwrite gen.manifest,24,1,1033
+  Added: 24,1,1033
+
+Commands completed

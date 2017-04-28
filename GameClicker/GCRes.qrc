@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file alias="Target">images/Target.png</file>
+        <file alias="Target2">images/topic_icon_target.png</file>
+        <file>images/main.png</file>
+        <file>images/Launch.png</file>
+        <file>images/Stop.png</file>
+        <file alias="going">images/run.png</file>
+        <file alias="stopped">images/stopped.png</file>
+        <file alias="Hand">images/Hand.png</file>
+        <file alias="Snipper">images/sniper.png</file>
+        <file>images/Reload all.png</file>
+        <file>images/update.png</file>
+        <file>images/Add folder.png</file>
+        <file>images/Web.png</file>
+        <file>images/Network.png</file>
+    </qresource>
+</RCC>
